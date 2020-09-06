@@ -10,4 +10,5 @@ Seguiranno aggiornamenti sulla struttura del dataset e sulla definizione delle v
 - Numero di pazienti positivi ammessi in ospedale (a livello regionale)
 - Numero di pazienti positivi presenti in ospedale (a livello regionale)
 - Numero di pazienti positivi che richiedono ventilazione assistita (a livello regionale)
-- Numero di pazienti positivi deceduti
+- Numero di pazienti positivi deceduti (a livello regionale)
+
