@@ -1,12 +1,7 @@
-## Welcome to GitHub Pages
+## Public depository for Covid-19 outbreak in Lamezia Terme
+A partire dal 24 Agosto 2020, si intende offrire un attento riepilogo delle positività riscontrate in città, sulla base delle informazioni offerte dai bollettini quotidiani, dalle comunicazione delle autorità locali e dalle testate giornalistiche.
 
-You can use the [editor on GitHub](https://github.com/colazeta/covid-calabria/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Casi attualmente attivi sul territorio
 
 <div class="flourish-embed flourish-cards" data-src="visualisation/3676056" data-url="https://flo.uri.sh/visualisation/3676056/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
