@@ -12,3 +12,7 @@ A partire dal 24 Agosto 2020, si intende offrire un attento riepilogo delle posi
 ### Descrizione dei casi attualmente attivi sul territorio
 
 <div class="flourish-embed flourish-cards" data-src="visualisation/3676056" data-url="https://flo.uri.sh/visualisation/3676056/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### Elenco delle positività riscontrate sul territorio nelle ultime settimane
+
+<div class="flourish-embed flourish-table" data-src="visualisation/3677927" data-url="https://flo.uri.sh/visualisation/3677927/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
