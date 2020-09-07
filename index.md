@@ -19,3 +19,5 @@ A partire dal 24 Agosto 2020, si intende offrire un attento riepilogo delle posi
 ### Elenco delle positività riscontrate sul territorio nelle ultime settimane
 
 <div class="flourish-embed flourish-table" data-src="visualisation/3677927" data-url="https://flo.uri.sh/visualisation/3677927/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Public depository for Covid-19 outbreak in Catanzaro (Province)
