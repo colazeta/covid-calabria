@@ -4,7 +4,7 @@ A partire dal 24 Agosto 2020, si intende offrire un attento riepilogo delle posi
 Seguiranno aggiornamenti sulla struttura del dataset e sulla definizione delle variabili che le compongono.
 
 
-- Numero di postività riscontrate (a livello comunale)
+- Numero di positività riscontrate (a livello comunale)
 - Numero di pazienti positivi ammessi in ospedale (a livello comunale)
 - Numero di pazienti positivi presenti in ospedale (a livello comunale)
 - Numero di pazienti positivi che richiedono ventilazione assistita (a livello comunale)
