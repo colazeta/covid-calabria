@@ -7,7 +7,10 @@ A partire dal 24 Agosto 2020, si intende offrire un attento riepilogo delle posi
 
 ### Covid-19 outbreak evolution in the latest weeks
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/3678064" data-url="https://flo.uri.sh/visualisation/3678064/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/3676499" data-url="https://flo.uri.sh/visualisation/3676499/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 
 ### Descrizione dei casi attualmente attivi sul territorio
 
