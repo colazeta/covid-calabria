@@ -23,3 +23,5 @@ A partire dal 24 Agosto 2020, si intende offrire un attento riepilogo delle posi
 ## Public depository for Covid-19 outbreak in Catanzaro (Province)
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3678774" data-url="https://flo.uri.sh/visualisation/3678774/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/3681669" data-url="https://flo.uri.sh/visualisation/3681669/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
