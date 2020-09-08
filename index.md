@@ -27,3 +27,5 @@ A partire dal 24 Agosto 2020, si intende offrire un attento riepilogo delle posi
 <div class="flourish-embed flourish-chart" data-src="visualisation/3678774" data-url="https://flo.uri.sh/visualisation/3678774/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3681669" data-url="https://flo.uri.sh/visualisation/3681669/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-map" data-src="visualisation/3682084" data-url="https://flo.uri.sh/visualisation/3682084/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
