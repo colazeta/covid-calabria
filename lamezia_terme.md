@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lamezia Terme
+title: Città di Lamezia Terme
 ---
 
 This is an about page about this awesome site.
