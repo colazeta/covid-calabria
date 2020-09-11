@@ -7,4 +7,5 @@ twitter_username: giovannicolaz_
 github_username:  colazeta
 
 # Build settings
-theme: jekyll-theme-cayman
+markdown: kramdown
+theme: minima
