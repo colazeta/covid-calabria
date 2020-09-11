@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: 
 ---
 
 ## Public depository for Covid-19 outbreak in Lamezia Terme
