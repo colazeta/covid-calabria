@@ -32,6 +32,8 @@ A partire dal 24 Agosto 2020, si intende offrire un attento riepilogo delle posi
 
 <div class="flourish-embed flourish-heatmap" data-src="visualisation/3686085" data-url="https://flo.uri.sh/visualisation/3686085/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+<div class="flourish-embed flourish-heatmap" data-src="visualisation/3711972" data-url="https://flo.uri.sh/visualisation/3711972/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ## Public depository for Covid-19 outbreak in Calabria
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3683788" data-url="https://flo.uri.sh/visualisation/3683788/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
