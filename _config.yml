@@ -1,10 +1,10 @@
 # basic options
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
-description: A wonderful site
-twitter_username: jekyllrb
-github_username:  jekyll
+title: Public depository for Covid-19 outbreak in Lamezia Terme
+author: Giovanni Nicolazzo
+email: nicolazzo.giovanni@outlook.it
+description: Public depository for Covid-19 outbreak in Lamezia Terme
+twitter_username: giovannicolaz_
+github_username:  colazeta
 
 # Build settings
 theme: jekyll-theme-cayman
