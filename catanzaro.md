@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Catanzaro
+title: Provincia di Catanzaro
 ---
 
 ## Public depository for Covid-19 outbreak in Catanzaro
