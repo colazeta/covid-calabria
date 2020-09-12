@@ -3,7 +3,7 @@ layout: page
 title: Regione Calabria
 permalink: regione_calabria
 ---
-## Public depository for Covid-19 outbreak in Calabria
+## Panoramica sul contagio in Calabria
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3683788" data-url="https://flo.uri.sh/visualisation/3683788/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
