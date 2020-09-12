@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Regione Calabria
+permalink: regione_calabria
 ---
 ## Public depository for Covid-19 outbreak in Calabria
 
