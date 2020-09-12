@@ -1,6 +1,6 @@
 ---
-layout: default
-title: 
+layout: home
+title: Panoramica sul contagio
 ---
 
 ## Public depository for Covid-19 outbreak in Lamezia Terme
